@@ -1,2 +1,2 @@
-# <strong> {{ site.title }} </strong>
----
+# [{{ site.title }}](/)
+Montevideo, Uruguay
