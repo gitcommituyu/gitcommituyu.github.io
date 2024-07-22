@@ -1,3 +1,3 @@
-- [Sesión 1](museum.html)
-- [Sesión 2](welcome-to-jekyll.html)
-- Sesión 3
+- [Sesión 1 - Git & GitHub](museum.html)
+- [Sesión 2 - Inteligencia Artificial](welcome-to-jekyll.html)
+- [Sesión 3 - GitHub Copilot]()
