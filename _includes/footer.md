@@ -1,1 +1,1 @@
-Follow us
+GitHub & Microsoft AI Lab for Good

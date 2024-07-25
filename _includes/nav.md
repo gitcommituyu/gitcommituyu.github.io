@@ -7,3 +7,7 @@
 - [Sesión 3 - GitHub Copilot](/2024/s3/decipher)
 
 ---
+
+[Atribuciones]()
+
+---
