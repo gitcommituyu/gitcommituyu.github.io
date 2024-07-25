@@ -70,7 +70,6 @@ Para testear la correctitud de tu implementación, puedes ejectuar el siguiente 
 ```
 check50 gitcommituyu/problems/2024/conservation
 ```
-*Importante: Este problema no es evaluado.*
 
 ## Reconocimientos
 Imagénes de la [Declaración de los Derechos de la Mujer y de la Ciudadana](https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_los_Derechos_de_la_Mujer_y_de_la_Ciudadana) obtenidas 
