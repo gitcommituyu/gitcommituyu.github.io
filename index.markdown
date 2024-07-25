@@ -12,12 +12,18 @@ layout: page
 
 ## ¿Qué es Git Commit?
 
-Information...
+Estamos muy emocionados de invitarte a participar en Git Commit 2024, un programa educativo que enseña conceptos esenciales de GitHub y el uso responsable de la inteligencia artificial. Este programa no solo te proporcionará conocimientos técnicos valiosos, sino que también mejorará tus habilidades en el mundo de la tecnología.
 
-## ¿Qué puedes esperar de Git Commit?
+En GitCommit 2024 aprenderás:
 
-Information...
+* Para qué es y cómo funciona Git y GitHub.  
+* Uso de herramientas de inteligencia artificial como GitHub Copilot.  
+* Prácticas de colaboración open source.
 
-## Siguientes pasos
+## Prerrequisitos para Participar
 
-Student Developer Pack
+Para sacar el mayor provecho del programa, es importante que cumplas con los siguientes requisitos:
+
+1. **Conocimiento de Programación:** Es fundamental que sepas programar. No importa el lenguaje, pero tener conocimientos básicos de programación es muy útil para seguir las actividades.  
+2. **Cuenta en GitHub:** Si aún no tienes una cuenta, puedes registrarte fácilmente en [GitHub](https://github.com).  
+3. **GitHub Student Developer Pack:** Para poder sacar el mayor provecho a las actividades que tenemos, es muy importante que tengas activado, antes de iniciar el evento, tu Student Developer Pack. Abajo puedes encontrar instrucciones de cómo solicitarlo.
