@@ -1,3 +1,5 @@
+[GitHub Student Developer Pack](/2024/sdp)
+
 ---
 
 - [Sesión 1 - Git & GitHub](/2024/s1/conservation)

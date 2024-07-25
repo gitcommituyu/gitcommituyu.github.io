@@ -6,4 +6,18 @@ layout: page
 
 ---
 
-# Git Commit Uruguay 2024
+# Welcome to Git Commit!
+
+![Banner](/assets/images/main/banner.png)
+
+## ¿Qué es Git Commit?
+
+Information...
+
+## ¿Qué puedes esperar de Git Commit?
+
+Information...
+
+## Siguientes pasos
+
+Student Developer Pack
