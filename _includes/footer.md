@@ -1,1 +1,1 @@
-Por GitHub & Microsoft AI Lab for Good
+GitHub & Microsoft AI Lab for Good

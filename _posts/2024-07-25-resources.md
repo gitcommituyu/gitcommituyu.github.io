@@ -8,6 +8,10 @@ permalink: /:year/resources
 
 # Recursos
 
+En esta sección hemos recopilado recursos para que puedas profundizar tus conocimientos en el área de la inteligencia artificial y las ciencias de la computación. Los recursos están organizados por nivel de experiencia sugerido y lenguaje en el que se encuentran disponibles.
+
+---
+
 | Etiqueta | Descripción |
 | --- | --- |
 | Principiante | Recurso apto para estudiantes que se están introduciento al área de la inteligencia artificial y las ciencias de la computación. |
@@ -16,7 +20,7 @@ permalink: /:year/resources
 
 ## Cursos
 
-| Curso | Nivel | Idioma |
+| Curso | Nivel | Lenguaje |
 | --- | --- | --- |
 | [Microsoft: Centro de Aprendizaje de IA](https://learn.microsoft.com/es-es/ai/) | Todos | 🇪🇸 |
 | [Microsoft: Conceptos básicos de IA](https://learn.microsoft.com/es-es/training/modules/get-started-ai-fundamentals/) | Principiante | 🇪🇸 |
@@ -29,19 +33,20 @@ permalink: /:year/resources
 
 ## Videos
 
-| Video | Nivel | Idioma |
+| Video | Nivel | Lenguaje |
 | --- | --- | --- |
 | [Crash Course Artificial Intelligence](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) | Principiante | 🇬🇧 |
+| [Canal de YouTube: Dot CSV](https://www.youtube.com/@DotCSV) | Todos | 🇪🇸 |
 
 ## Libros
 
-| Libro | Nivel | Idioma |
+| Libro | Nivel | Lenguaje |
 | --- | --- | --- |
 | [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://books.google.cl/books/about/Introduction_to_Machine_Learning_with_Py.html?id=vbQlDQAAQBAJ&source=kp_book_description&redir_esc=y) | Intermedio | 🇪🇸 |
 
 ## Beneficios
 
-| Beneficio | Nivel | Idioma |
+| Beneficio | Nivel | Lenguaje |
 | --- | --- | --- |
 | [Microsoft/GitHub Student Developer Pack: Data Science & Machine Learning Track](https://education.github.com/experiences/ml_ds) | Todos | 🇬🇧 |
 
