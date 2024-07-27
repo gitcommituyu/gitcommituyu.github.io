@@ -39,6 +39,7 @@ cs50:
     title: Git Commit Uruguay
     description: Un evento de GitHub para Montevideo
     locale: es
+    alert: warning dismissible
 
 # Exclude from processing.
 # The following items will not be processed, by default.
