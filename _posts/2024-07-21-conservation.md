@@ -51,6 +51,17 @@ Para este problema, deberás descargar la distribución del código en tu entorn
     ```
     deberías encontrar una carpeta llamada `images` y un archivo llamado `transcript.txt` en tu carpeta `conservation`.
 
+## Especificación
+En este problema, debes transcribir los artículos al archivo `transcript.txt` llenando el campo correspondiente. ¡Asegúrate de no cambiar ningún texto existente en el archivo o añadir más líneas de texto!
+
+Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
+```
+I. Hello
+II. Uruguay
+III. Latin America
+IV. & the World!
+```
+
 ## Detalles de Implementación
 En grupos de 2 a 4 personas, completen la implementación de `transcript.txt` tal que sean conservados los primeros 4 artículos de la Declaración de los Derechos de la Mujer y de la Ciudadana, de tal manera que:
 
