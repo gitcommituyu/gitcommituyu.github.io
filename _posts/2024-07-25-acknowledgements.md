@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  "Atribuciones"
+title:  "Reconocimientos"
 date:   2024-07-21 18:43:20 -0400
 categories: main
-permalink: /:year/attributions
+permalink: /:year/acknowledgements
 ---
 
-# Atribuciones
+# Reconocimientos
 
 Para hacer este Git Commit una experiencia aún mejor, este año hemos creado esta página web para presentar sets de problemas y sus soluciones de una manera más atractica y pedagógicamente efectiva. Para lograr esto, nos basamos en el trabajo de [CS50](https://cs50.harvard.edu/x/2024/); el curso introductorio de la Universidad de Harvard a las empresas intelectuales de la informática y el arte de la programación.
 
