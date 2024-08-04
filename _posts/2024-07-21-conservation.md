@@ -23,17 +23,20 @@ Para este problema, deberás descargar la distribución del código en tu entorn
     * Ejecuta `cd` en tu terminal. Deberías encontrar que tu ventana de terminal se asemeja a la de abajo:
     ```
     $
+    ``` 
+
+    * Ahora ejecuta el siguiente comando para descargar el archivo ZIP llamado `1.zip` en tu GitHub Codespaces.
+    ```
+    wget http://157.245.132.153/gitcommit/1.zip
     ```
 
-    * Accede a este [link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fgitcommituyu%2Fdistribution%2Ftree%2F2024%2Fconservation) para descargar el archivo ZIP llamado `gitcommituyu distribution 2024 conservation.zip` en tu dispositivo.
-
-    * Ahora sube este archivo a tu entorno de GitHub Codespaces y ejecuta
+    * Ejecuta el siguiente comando
     ```
-    unzip gitcommituyu\ distribution\ 2024\ conservation\.zip
+    unzip 1.zip
     ```
-    para descomprimir el archivo ZIP y obtener una carpeta llamada `conservation`. Ya no necesitas el archivo ZIP, por lo que puedes eliminarlo ejecutando
+    para descomprimir el archivo zip y obtener una carpeta llamada `conservation`. Ya no necesitas el archivo ZIP, por lo que puedes eliminarlo ejecutando
     ```
-    rm gitcommituyu\ distribution\ 2024\ conservation\.zip
+    rm 1.zip
     ```
 
     * Ahora ejecuta
