@@ -73,7 +73,7 @@ En grupos de 2 a 4 personas, completen la implementación de `transcript.txt` ta
 ## Cómo testear tu implementación
 Para testear la correctitud de tu implementación, puedes ejecutar el siguiente comando en tu terminal:
 ```
-check50 gitcommituyu/problems/2024/conservation
+check50 gitcommituyu/problems/2024/conservation --local
 ```
 
 ## Reconocimientos
