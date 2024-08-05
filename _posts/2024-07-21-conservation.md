@@ -15,11 +15,15 @@ En 1789, en el contexto de la [Revolución Francesa](https://es.wikipedia.org/wi
 Tú perteneces a un equipo de conservación histórica que buscará conservar este documento de manera digital para que así futuras generaciones puedan acceder a este. Una investigadora ya ha anotado la traducción del documento, ahora el trabajo de tu equipo será transcribir los primeros 4 artículos de la Declaración de los Derechos de la Mujer y de la Ciudadana a un archivo llamado `transcript.txt`.
 
 ## Distribución de Código
-Para este problema, deberás descargar la distribución del código en tu entorno de Codespaces. Para ello, sigue los siguientes pasos:
 
-+ Descarga la distribución del código
-    * Accede a tu GitHub Codespaces de Git Commit:  [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gitcommituyu/codespace)
+Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Codespaces, una manera sencilla de trabajar como si tuviéramos una computadora en la nube. No necesitas instalar nada, ya que todo estará listo para que lo uses. Para poder ejecutar esto, sigue los siguientes pasos:
 
+*. **Accede a tu GitHub Codespaces de Git Commit:** Haz clic en el siguiente botón para crear un nuevo repositorio en tu cuenta personal. Ponle el nombre que quieras; te recomendamos "Conservation". Guarda el repositorio en tu cuenta.
+   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/new?template_name=codespace&template_owner=gitcommituyu)
+* Una vez que has guardado el repositorio, verás un botón que dice "Code" y una opción que dice "Codespaces".
+* Haz clic en "Codespaces" y luego en "Crear nuevo Codespace".
+* Espera unos minutos mientras se inicia todo el entorno.
+* Una vez que el Codespace haya iniciado, estarás listo para trabajar con el entorno configurado y seguir los siguientes pasos del reto.
     * Ejecuta `cd` en tu terminal. Deberías encontrar que tu ventana de terminal se asemeja a la de abajo:
     ```
     $
@@ -59,25 +63,27 @@ En este problema, debes transcribir los artículos al archivo `transcript.txt` l
 
 Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
 ```
-I. Hello
-II. Uruguay
-III. Latin America
-IV. & the World!
+Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
+Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
+Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
+Cuarto Art: Soy el texto del cuarto artículo, debo estar en una sola línea.
+
 ```
-
-## Detalles de Implementación
-En grupos de 2 a 4 personas, completen la implementación de `transcript.txt` tal que sean conservados los primeros 4 artículos de la Declaración de los Derechos de la Mujer y de la Ciudadana, de tal manera que:
-
-* Todo el código deberá ser almacenado en un repositorio de GitHub llamado `conservation-gitcommit`. (¡Este repositorio debe ser creado por uno de ustedes!)
-* Cada persona debe utilizar una rama con el nombre `transcript-name` con `name` siendo el nombre de usuario de GitHub de la persona.
-* Luego de que cada persona haya transcrito sus partes, deberán asegurarse que todas las transcripciones converjan en la rama `main` mediante *pull-requests*. (¡Cuidado con los merge conflicts!)
-* Deben documentar por lo menos un problema que encuentren durante el proceso de la transcripción en el apartado de Issues de GitHub.
 
 ## Cómo testear tu implementación
 Para testear la correctitud de tu implementación, puedes ejecutar el siguiente comando en tu terminal:
 ```
 check50 gitcommituyu/problems/2024/conservation --local
 ```
+
+## Reto Adicional: Implementación Colaborativa
+En grupos de 2 a 4 personas, una vez que cada uno haya completado de forma individual este reto, sigan estos pasos para trabajar de manera colaborativa:
+
+* Una persona del grupo debe crear un nuevo repositorio en GitHub llamado `conservation-gitcommit`.
+* Si son equipos de dos, se dividen entre dos personas. Si son equipos de cuatro, se dividen entre cuatro personas, y cada uno se encargará de transcribir una parte del archivo `transcript.txt` de manera individual.
+* Cada persona debe enviar su transcripción al repositorio mediante *pull requests* hacia el repositorio creado por la primera persona.
+* Asegúrense de revisar y aprobar las *pull requests* para que todas las transcripciones se integren en la rama `main`.
+* Deben documentar al menos un problema encontrado durante el proceso de transcripción en la sección de Issues de GitHub.
 
 ## Reconocimientos
 * Ilustración principal del enunciado de la obra [La Libertad guiando al pueblo](https://es.wikipedia.org/wiki/La_Libertad_guiando_al_pueblo) obtenida de Wikipedia. 
