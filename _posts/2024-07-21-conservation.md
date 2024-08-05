@@ -85,9 +85,9 @@ Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Cod
 
 ## Especificación
 
-En este problema, debes transcribir los artículos de las fotos al archivo `transcript.txt`, llenando el campo correspondiente. ¡Asegúrate de no cambiar ningún texto existente en el archivo ni añadir más líneas de texto!
+En este problema, debes transcribir los artículos de las fotos al archivo `transcript.txt`, llenando el campo correspondiente. ¡Asegúrate de no cambiar el formato del archivo!
 
-### Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
+Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
 ```
 Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
 Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
