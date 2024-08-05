@@ -18,12 +18,15 @@ Tú perteneces a un equipo de conservación histórica que buscará conservar es
 
 Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Codespaces, una manera sencilla de trabajar como si tuviéramos una computadora en la nube. No necesitas instalar nada, ya que todo estará listo para que lo uses. Para poder ejecutar esto, sigue los siguientes pasos:
 
-*. **Accede a tu GitHub Codespaces de Git Commit:** Haz clic en el siguiente botón para crear un nuevo repositorio en tu cuenta personal. Ponle el nombre que quieras; te recomendamos "Conservation". Guarda el repositorio en tu cuenta.
-   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/new?template_name=codespace&template_owner=gitcommituyu)
-* Una vez que has guardado el repositorio, verás un botón que dice "Code" y una opción que dice "Codespaces".
-* Haz clic en "Codespaces" y luego en "Crear nuevo Codespace".
-* Espera unos minutos mientras se inicia todo el entorno.
-* Una vez que el Codespace haya iniciado, estarás listo para trabajar con el entorno configurado y seguir los siguientes pasos del reto.
++ Descarga la distribución del código
+
+    * **Accede a tu GitHub Codespaces de Git Commit:** Haz clic en el siguiente botón para crear un nuevo repositorio en tu cuenta personal. Ponle el nombre que quieras; te recomendamos "Conservation". Guarda el repositorio en tu cuenta.
+    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/new?template_name=codespace&template_owner=gitcommituyu)
+
+    * Una vez que has guardado el repositorio, verás un botón que dice "Code" y una opción que dice "Codespaces".
+
+    * Haz clic en "Codespaces" y luego en "Crear nuevo Codespace". Espera unos minutos mientras se inicia todo el entorno. Una vez que el Codespace haya iniciado, estarás listo para trabajar con el entorno configurado y seguir los siguientes pasos del reto.
+    
     * Ejecuta `cd` en tu terminal. Deberías encontrar que tu ventana de terminal se asemeja a la de abajo:
     ```
     $
