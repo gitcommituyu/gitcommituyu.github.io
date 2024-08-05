@@ -10,7 +10,6 @@
 ---
 
 - [Recursos](/2024/resources)
-- [Staff](/2024/staff)
 - [Reconocimientos](/2024/acknowledgements)
 
 ---

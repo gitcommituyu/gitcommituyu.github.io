@@ -90,4 +90,4 @@ En grupos de 2 a 4 personas, una vez que cada uno haya completado de forma indiv
 
 ## Reconocimientos
 * Ilustración principal del enunciado de la obra [La Libertad guiando al pueblo](https://es.wikipedia.org/wiki/La_Libertad_guiando_al_pueblo) obtenida de Wikipedia. 
-* Imágenes de la [Declaración de los Derechos de la Mujer y de la Ciudadana](https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_los_Derechos_de_la_Mujer_y_de_la_Ciudadana) obtenidas de de [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k64848397/f1.item), la librería digital de la Biblioteca Nacional de Francia.
+* Imágenes de la [Declaración de los Derechos de la Mujer y de la Ciudadana](https://es.wikipedia.org/wiki/Declaraci%C3%B3n_de_los_Derechos_de_la_Mujer_y_de_la_Ciudadana) obtenidas de [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k64848397/f1.item), la librería digital de la Biblioteca Nacional de Francia.
