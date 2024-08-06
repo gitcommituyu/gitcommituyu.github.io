@@ -16,53 +16,76 @@ Tú perteneces a un equipo de conservación histórica que buscará conservar es
 
 ## Distribución de Código
 
-Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Codespaces, una manera sencilla de trabajar como si tuviéramos una computadora en la nube. No necesitas instalar nada, ya que todo estará listo para que lo uses. Para poder ejecutar esto, sigue los siguientes pasos:
+Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Codespaces, una manera sencilla de trabajar como si tuviéramos una computadora en la nube. No necesitas instalar nada, ya que todo estará listo para que lo uses. Para ejecutar esto, sigue los siguientes pasos:
 
-+ Descarga la distribución del código
+1. **Descarga el código y los materiales para este reto:**
+   * **Accede a tu GitHub Codespaces de Git Commit:** Haz clic en el siguiente botón para crear un nuevo repositorio en tu cuenta personal. Ponle el nombre que quieras; te recomendamos "Conservation". Guarda el repositorio en tu cuenta.
+     [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/new?template_name=codespace&template_owner=gitcommituyu)
+   * Una vez que hayas guardado el repositorio, verás un botón que dice "Code" y una opción que dice "Codespaces".
+   * Haz clic en "Codespaces" y luego en "Crear nuevo Codespace". Espera unos minutos mientras se inicia todo el entorno.
 
-    * **Accede a tu GitHub Codespaces de Git Commit:** Haz clic en el siguiente botón para crear un nuevo repositorio en tu cuenta personal. Ponle el nombre que quieras; te recomendamos "Conservation". Guarda el repositorio en tu cuenta.
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/new?template_name=codespace&template_owner=gitcommituyu)
+2. **Preparación del entorno:**
+   * Una vez que el Codespace haya iniciado, estarás listo para trabajar con el entorno configurado.
+   * Deberías encontrar que tu ventana de terminal se asemeja a la siguiente:
+     ```
+     $
+     ``` 
+   * Ahora, ejecuta el siguiente comando para descargar el archivo ZIP llamado `1.zip` en tu GitHub Codespaces:
+     ```
+     wget http://157.245.132.153/gitcommit/1.zip
+     ```
+   * Descomprime el archivo ZIP ejecutando:
+     ```
+     unzip 1.zip
+     ```
+   * Elimina el archivo ZIP ya que no lo necesitas más, ejecutando:
+     ```
+     rm 1.zip
+     ```
 
-    * Una vez que has guardado el repositorio, verás un botón que dice "Code" y una opción que dice "Codespaces".
+3. **Agregar y verificar archivos:**
+   * Verifica el estado de los archivos que acabas de descomprimir ejecutando:
+     ```
+     git status
+     ```
+   * Agrega los archivos a tu repositorio. Tienes tres opciones:
+     1. Agregar los archivos de manera individual:
+        ```
+        git add conservation/images/001.png
+        ```
+     2. Agregar todo el folder:
+        ```
+        git add conservation/*
+        ```
+     3. Agregar todos los archivos:
+        ```
+        git add *
+        ```
+   * Envía los cambios a tu cuenta de GitHub con el siguiente comando:
+     ```
+     git push
+     ```
 
-    * Haz clic en "Codespaces" y luego en "Crear nuevo Codespace". Espera unos minutos mientras se inicia todo el entorno. Una vez que el Codespace haya iniciado, estarás listo para trabajar con el entorno configurado y seguir los siguientes pasos del reto.
-    
-    * Ejecuta `cd` en tu terminal. Deberías encontrar que tu ventana de terminal se asemeja a la de abajo:
-    ```
-    $
-    ``` 
+4. **Acceder al directorio de trabajo:**
+   * Dirígete a la carpeta `conservation` ejecutando:
+     ```
+     cd conservation
+     ```
+   * Deberías encontrar que tu ventana de terminal se asemeja a la siguiente:
+     ```
+     conservation/ $
+     ```
 
-    * Ahora ejecuta el siguiente comando para descargar el archivo ZIP llamado `1.zip` en tu GitHub Codespaces.
-    ```
-    wget http://157.245.132.153/gitcommit/1.zip
-    ```
-
-    * Ejecuta el siguiente comando
-    ```
-    unzip 1.zip
-    ```
-    para descomprimir el archivo zip y obtener una carpeta llamada `conservation`. Ya no necesitas el archivo ZIP, por lo que puedes eliminarlo ejecutando
-    ```
-    rm 1.zip
-    ```
-
-    * Ahora ejecuta
-    ```
-    cd conservation
-    ```
-    para dirigirte a la carpeta `conservation`. Deberías encontrar que tu ventana de terminal se asemeja a la de abajo:
-    ```
-    conservation/ $
-    ```
-
-    * Si todo ha salido bien, al momento de ejecutar
-    ```
-    ls
-    ```
-    deberías encontrar una carpeta llamada `images` y un archivo llamado `transcript.txt` en tu carpeta `conservation`.
+5. **Verificar contenido del directorio:**
+   * Si todo ha salido bien, al ejecutar:
+     ```
+     ls
+     ```
+     deberías encontrar una carpeta llamada `images` y un archivo llamado `transcript.txt` en tu carpeta `conservation`.
 
 ## Especificación
-En este problema, debes transcribir los artículos al archivo `transcript.txt` llenando el campo correspondiente. ¡Asegúrate de no cambiar ningún texto existente en el archivo o añadir más líneas de texto!
+
+En este problema, debes transcribir los artículos de las fotos al archivo `transcript.txt`, llenando el campo correspondiente. ¡Asegúrate de no cambiar el formato del archivo!
 
 Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
 ```
@@ -70,8 +93,9 @@ Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
 Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
 Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
 Cuarto Art: Soy el texto del cuarto artículo, debo estar en una sola línea.
-
 ```
+
+Para llevar un registro detallado de tu progreso, te recomendamos que realices un commit cada vez que completes la transcripción de un artículo. Esto te ayudará a mantener un historial claro de tus cambios y facilitará la colaboración con otros miembros del equipo.
 
 ## Cómo testear tu implementación
 Para testear la correctitud de tu implementación, puedes ejecutar el siguiente comando en tu terminal:
