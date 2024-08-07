@@ -10,6 +10,7 @@
 ---
 
 - [Recursos](/2024/resources)
+- [Feedback](/2024/feedback)
 - [Reconocimientos](/2024/acknowledgements)
 
 ---
