@@ -15,6 +15,10 @@
 
 ---
 
+- [GitHub Campus Experts](https://docs.github.com/es/education/explore-the-benefits-of-teaching-and-learning-with-github-education/use-github-at-your-educational-institution/applying-to-be-a-github-campus-expert)
+
+---
+
 Comunidades de GitHub en Español
 
 - [Meetup](https://www.meetup.com/pro/github-virtual-meetup/)

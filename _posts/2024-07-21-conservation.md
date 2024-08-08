@@ -89,25 +89,6 @@ Para este problema y todos los problemas del Git Commit, utilizaremos GitHub Cod
 
 ## Especificación
 
-En este problema, debes transcribir los artículos de las fotos al archivo `transcript.txt`, llenando el campo correspondiente. ¡Asegúrate de no cambiar el formato del archivo!
-
-Ejemplo de cómo deberías llenar el archivo `transcript.txt`:
-```
-Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
-Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
-Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
-Cuarto Art: Soy el texto del cuarto artículo, debo estar en una sola línea.
-```
-
-Para llevar un registro detallado de tu progreso, te recomendamos que realices un commit cada vez que completes la transcripción de un artículo. Esto te ayudará a mantener un historial claro de tus cambios y facilitará la colaboración con otros miembros del equipo.
-
-## Cómo testear tu implementación
-Para testear la correctitud de tu implementación, puedes ejecutar el siguiente comando en tu terminal:
-```
-check50 gitcommituyu/problems/2024/conservation --local
-```
-
-## Reto Adicional: Implementación Colaborativa
 En grupos de 2 a 4 personas, una vez que cada uno haya completado de forma individual este reto, sigan estos pasos para trabajar de manera colaborativa:
 
 * Una persona del grupo debe crear un nuevo repositorio en GitHub llamado `conservation-gitcommit`.
@@ -115,6 +96,23 @@ En grupos de 2 a 4 personas, una vez que cada uno haya completado de forma indiv
 * Cada persona debe enviar su transcripción al repositorio mediante *pull requests* hacia el repositorio creado por la primera persona.
 * Asegúrense de revisar y aprobar las *pull requests* para que todas las transcripciones se integren en la rama `main`.
 * Deben documentar al menos un problema encontrado durante el proceso de transcripción en la sección de Issues de GitHub.
+
+Para llevar un registro detallado de tu progreso, te recomendamos que realices un commit cada vez que completes la transcripción de un artículo. Esto te ayudará a mantener un historial claro de tus cambios y facilitará la colaboración con otros miembros del equipo.
+
++ Ejemplo de archivo `transcript.txt`
+  * Primer Art: Soy el texto del primer artículo, debo estar en una sola línea.
+  * Segundo Art: Soy el texto del segundo artículo, debo estar en una sola línea.
+  * Tercer Art: Soy el texto del tercer artículo, debo estar en una sola línea.
+  * Cuarto Art: Soy el texto del cuarto artículo, debo estar en una sola línea.
+
+## Cómo testear tu implementación
+Para testear la correctitud de tu implementación, puedes ejecutar el siguiente comando en tu terminal:
+```
+check50 gitcommituyu/problems/2024/conservation --local
+```
+
+## Envíanos tu Solución
+Puedes enviar tu implementación a este desafío a nuestra [GitHub Discussions](https://github.com/orgs/gitcommituyu/discussions/4) dedicada. Si es correcta, estarás participando de un sorteo de premios de GitHub.
 
 ## Reconocimientos
 * Ilustración principal del enunciado de la obra [La Libertad guiando al pueblo](https://es.wikipedia.org/wiki/La_Libertad_guiando_al_pueblo) obtenida de Wikipedia. 
